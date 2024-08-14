@@ -1,0 +1,5 @@
+Imágenes que no son facturas válidas:
+
+Ruta: C:\Users\Administrador\Desktop\facturas-dewallet\2350284333_2024-06-11 09_53_37.png
+Razón: Fecha inválida
+
